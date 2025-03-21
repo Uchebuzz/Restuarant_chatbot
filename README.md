@@ -29,4 +29,6 @@ This project involves creating a multimodal LLM (Large Language Model) applicati
 ## Future Scope  
 - Integration of voice input for enhanced accessibility.  
 - Multilingual capabilities for global applicability.  
-- Advanced analytics to understand customer preferences and behavior.  
+- Advanced analytics to understand customer preferences and behavior.
+- Adding Claude or deepseek to see the effectiveness of the models
+
